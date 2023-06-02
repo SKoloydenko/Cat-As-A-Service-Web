@@ -30,7 +30,7 @@ fun Application.module() {
                         +"MEPhI Networks 2023 External"
                     }
                     img {
-                        src = "/var/www/html/kotik.jpg"
+                        src = "https://memepedia.ru/wp-content/uploads/2018/09/babuleh-original.jpg"
                         width = "640px"
                     }
                     h2 {
